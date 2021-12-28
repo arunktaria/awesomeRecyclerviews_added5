@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arun/Documents/awesomeRecyclerviews/app/src/main/res/drawable/itembackground.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Arun/Documents/awesomeRecyclerviews/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Arun/Documents/awesomeRecyclerviews/app/src/main/res/layout/chiplayout.xml" value="0.2" />
+        <entry key="..\:/Users/Arun/Documents/awesomeRecyclerviews/app/src/main/res/layout/flexlayout.xml" value="0.2" />
+        <entry key="..\:/Users/Arun/Documents/awesomeRecyclerviews/app/src/main/res/layout/itemlistlayout.xml" value="0.2" />
+        <entry key="..\:/Users/Arun/Documents/awesomeRecyclerviews/app/src/main/res/menu/selectrecycler.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable/itembackground.xml" value="0.19538461538461538" />
+        <entry key="app/src/main/res/layout/activity_cover_flow.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/chiplayout.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/coverflowlayout.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/expandablelayout.xml" value="0.14351851851851852" />
+        <entry key="app/src/main/res/layout/flexlayout.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/itemlistlayout.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/miniitemlist.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/selectrecycler.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

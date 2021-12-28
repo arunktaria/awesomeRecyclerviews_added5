@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<com.google.android.flexbox.FlexboxLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:flexWrap="wrap"
+    android:background="#000000"
+    android:padding="16sp"
+    app:alignItems="stretch"
+    app:alignContent="stretch" >
+    <ImageView
+        android:layout_width="300sp"
+        android:layout_height="200sp"
+        android:id="@+id/firstimgview"
+        />
+
+
+    <ImageView
+        android:layout_width="150sp"
+        android:layout_height="100sp"
+        android:id="@+id/imageviewmiddel"
+        />
+
+
+    <ImageView
+        android:layout_width="80sp"
+        android:layout_height="100sp"
+        android:id="@+id/lastimgview"
+        />
+
+</com.google.android.flexbox.FlexboxLayout>
+
+</LinearLayout>

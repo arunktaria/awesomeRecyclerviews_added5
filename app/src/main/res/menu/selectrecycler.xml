@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fanlayoutmenu"
+        android:title="fan layout" />
+
+
+    <item
+        android:id="@+id/chiplayout"
+        android:title="chip layout" />
+    <item
+        android:id="@+id/flexmenu"
+        android:title="flex layout" />
+
+    <item
+        android:id="@+id/vegamenu"
+        android:title="vega layout" />
+
+
+    <item
+        android:id="@+id/stacklayout"
+        android:title="stack layout" />
+
+    <item
+        android:id="@+id/circularlayout"
+        android:title="circular layout" />
+
+
+    <item
+        android:id="@+id/coverlayoutmenuitem"
+        android:title="coverflow layout" />
+
+</menu>
