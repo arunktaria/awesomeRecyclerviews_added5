@@ -15,7 +15,6 @@ class CoverFlowActivity : AppCompatActivity() {
         setContentView(R.layout.activity_cover_flow)
              list= arrayListOf()
             val coverflowrecycler:RecyclerView=findViewById(R.id.coverflowrecycler)
-
             val ob=DataModel()
             ob.image=R.drawable.dev
 
@@ -28,13 +27,8 @@ class CoverFlowActivity : AppCompatActivity() {
 
             Toast.makeText(this,"in coverflow layout",Toast.LENGTH_SHORT).show()
             val adapterdemo=CoverFlowAdapter(this,list)
-            coverflowrecycler.layoutManager=CoverFlowLayoutManger(true,false,true,"45.1".toString().toFloat())
+            coverflowrecycler.layoutManager=CoverFlowLayoutManger(false,false,true,"0.3".toString().toFloat())
             coverflowrecycler.adapter=adapterdemo
-
-
-
-
-
 
 
     }
